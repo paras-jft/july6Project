@@ -2,4 +2,5 @@ Class User {
 String firstName;
 String email;
 String password1;
+Date dateCreated
 }
