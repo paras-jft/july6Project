@@ -1,5 +1,5 @@
 Class User {
-String firstName;
+String firstName1;
 String email;
 String password1;
 }
